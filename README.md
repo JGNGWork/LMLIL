@@ -1,2 +1,2 @@
 # LMLIL
-LM LinkedIn Lerning
+LM LinkedIn Learning
